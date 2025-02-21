@@ -33,7 +33,7 @@ $ bun run build && bun run start
 
 ## Features
 
-[x] - Able to view problems
-[x] - Fast ⚡
-[ ] - Submit solutions
-[ ] - User accounts
+- [x] Able to view problems
+- [x] Fast ⚡
+- [ ] Submit solutions
+- [ ] User accounts
