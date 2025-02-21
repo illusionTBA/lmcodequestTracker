@@ -1,6 +1,6 @@
 # LMCQ Tracker
 
-> A better way to view and complete [lmcodequestacademy](https://lmcodequestacademy.com/)
+> A better way to view and complete [lmcodequestacademy](https://lmcodequestacademy.com/) problems
 
 ## Prerequisite
 
